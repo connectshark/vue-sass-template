@@ -1,5 +1,5 @@
 <template>
-  <h1>{{title}}</h1>
+  <h1 class="text-4xl">{{title}}</h1>
   <router-view></router-view>
 </template>
 
@@ -7,7 +7,7 @@
 export default {
   setup () {
     return {
-      title: 'hello'
+      title: 'Hello'
     }
   }
 }
@@ -17,10 +17,6 @@ export default {
 <style>
 #app {
   font-family: 'openhuninn', 'Noto Sans TC', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
