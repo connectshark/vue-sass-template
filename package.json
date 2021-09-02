@@ -1,5 +1,5 @@
 {
-  "name": "shopee-dashboard",
+  "name": "vite-template",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
