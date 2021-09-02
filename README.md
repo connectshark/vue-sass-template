@@ -7,5 +7,5 @@
 - vue3
 - vuex4
 - vue-router4
-- tailwind
+- scss
 - github action自動部署至 `gh-page`
