@@ -8,6 +8,6 @@ export default defineConfig({
     port: 8080
   },
   base: process.env.NODE_ENV === 'production'
-    ? '/vite-template/'
+    ? '/vue-sass-template/'
     : '/',
 })
