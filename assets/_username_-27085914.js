@@ -1,0 +1,1 @@
+import{_ as a,u as s,o as _,c as t,a as n,t as o,b as r}from"./index-542227b9.js";const u={__name:"[username]",setup(c){const e=s();return(l,p)=>(_(),t("div",null,[n("h1",null,"Hello! "+o(r(e).params.username),1)]))}},d=a(u,[["__scopeId","data-v-8e3b63da"]]);export{d as default};

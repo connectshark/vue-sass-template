@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _}from"./index-542227b9.js";const s={setup(){return{}}},c={class:"title"};function o(n,a,r,p,d,i){return t(),_("h1",c,"第一頁由此開始")}const l=e(s,[["render",o],["__scopeId","data-v-6f3106ce"]]);export{l as default};
